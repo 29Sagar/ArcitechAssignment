@@ -34,4 +34,6 @@ $ python manage.py runserver 8000
 ```
 
 Open Html file using following path for frontend
+```bash
 ArcitechAssignment/templates/index.html
+```
