@@ -30,7 +30,7 @@ $ python manage.py createsuperuser
 
 Run Django Server
 ```bash
-$ python manage.py runserver 8000
+$ python manage.py runserver 8001
 ```
 
 Open Html file using following path for frontend
